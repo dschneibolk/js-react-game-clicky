@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Wanda",
+      "image": "https://vignette.wikia.nocookie.net/fairlyoddfanon/images/7/7e/Wanda_flash_animation.png/revision/latest?cb=20180826042321",
+      "clicked":false
+  
+    },
+    {
+      "id": 2,
+      "name": "Cosmo",
+      "image": "https://vignette.wikia.nocookie.net/fairlyoddparents/images/e/ed/Cosmo_image.png/revision/latest?cb=20190416034906&path-prefix=en",
+      "clicked":false
+    },
+    {
+      "id": 3,
+      "name": "Timmy",
+      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "clicked":false
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "clicked":false
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "clicked":false
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+      "clicked":false
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+      "clicked":false
+    },
+    {
+      "id": 8,
+      "name": "Homer",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+      "clicked":false
+    },
+    {
+      "id": 9,
+      "name": "Lisa",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Lisa_Simpson.png/220px-Lisa_Simpson.png",
+      "clicked":false
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+      "clicked":false
+    },
+    {
+      "id": 11,
+      "name": "Batman",
+      "image": "https://banner2.kisspng.com/20180414/psq/kisspng-batman-joker-robin-animated-series-cartoon-bat-5ad2107fb55365.9311250415237162237427.jpg",
+      "clicked":false
+    },
+    {
+      "id": 12,
+      "name": "Joker",
+      "image": "https://banner2.kisspng.com/20180325/zcq/kisspng-joker-harley-quinn-batman-penguin-animated-series-joker-5ab75f65d89304.2218684315219669498871.jpg",
+      "clicked":false
+    }
+  ]
